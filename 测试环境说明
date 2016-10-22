@@ -1,0 +1,8 @@
+测试环境：
+
+数据库名称为baidunews
+express入口文件为  ./bin/www
+
+访问前端页面：localhost:3000
+
+访问后台管理系统：localhost:3000/manage.html
